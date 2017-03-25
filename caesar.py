@@ -1,4 +1,4 @@
-from helpers import alphabet_position, rotate_character
+#from helpers import alphabet_position, rotate_character
 
 def alphabet_position(letter):
     # input to this function is a string of one letter (apha character)
